@@ -1,4 +1,4 @@
-# {{ProjectName}}
+# {{jogo-coleta}}
 
 ## Sumário
 - [Visão Geral](#visão-geral)
